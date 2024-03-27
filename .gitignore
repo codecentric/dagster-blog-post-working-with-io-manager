@@ -1,0 +1,6 @@
+venv
+.idea
+tmp*
+.env
+dagster_home
+__pycache__
