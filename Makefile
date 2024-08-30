@@ -58,5 +58,5 @@ dagster_ui:
 preprocessing_job:
 	dagster job execute -f core/definitions.py -j preprocessing_job
 
-training:
+training_job:
 	dagster job execute -f core/definitions.py -j training_job
